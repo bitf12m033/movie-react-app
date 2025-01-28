@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - Create new account in Appwrite
+- To save data permanently for trending movies and search results
 - Install Tailwind using vite plugin
 - npm install tailwindcss @tailwindcss/vite
 - TMBD API Key
